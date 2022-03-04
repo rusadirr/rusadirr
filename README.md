@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 This is my personal repository Feel free to check my repository, don't forget to notify me if you found something wrong 
 
-<img width="40%" alt="Night Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right"/>
+<img width="20%" alt="Night Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right"/>
 
 ### 🛠️ &nbsp; Tech
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -59,7 +59,7 @@ This is my personal repository Feel free to check my repository, don't forget to
 <br><br>
 
 ### 🥇 &nbsp; Badges <br>
-<a href="https://www.qwiklabs.com/public_profiles/d6de05fa-537a-4759-9b2b-ba310126bea0"><img src="Badges/Qwiklabs.png" alt="Qwiklabs Badge" width="60" height="60"></a> ,br.
+<a href="https://www.qwiklabs.com/public_profiles/d6de05fa-537a-4759-9b2b-ba310126bea0"><img src="Badges/Qwiklabs.png" alt="Qwiklabs Badge" width="60" height="60"></a> <br>
 <a href="https://hacktoberfest.digitalocean.com/"><img src="Badges/Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60"></a>
 
 ### ⚙️ &nbsp; My GitHub Analytics
