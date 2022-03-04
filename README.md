@@ -64,8 +64,6 @@ https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i
 -->
 
 <br><br>
-<br><br>
-<br><br>
 
 ### 🥇 &nbsp; Badges <br>
 <a href="https://www.qwiklabs.com/public_profiles/d6de05fa-537a-4759-9b2b-ba310126bea0"><img src="Badges/Qwiklabs.png" alt="Qwiklabs Badge" width="60" height="60"></a> 
@@ -109,7 +107,7 @@ BUAT BLOG
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rusadirr/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rusadirr/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://project.rusadi.me)
-[![GMail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](muhammadrusadir@gmail.com)
+[![GMail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:muhammadrusadir@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rusadirr)
 [![Blog](https://img.shields.io/badge/BLOGS-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white)](https://blog.rusadi.me)
 
