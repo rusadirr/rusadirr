@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 This is my personal repository. Feel free to check my repository, don't forget to notify me if you found something wrong.
 
+<br><br>
 <img width="35%" alt="Night Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right"/>
 
 ### 🛠️ &nbsp; Tech
@@ -53,7 +54,6 @@ This is my personal repository. Feel free to check my repository, don't forget t
 
 -->
 
-<br><br>
 <br><br>
 <br><br>
 <br><br>
