@@ -76,7 +76,7 @@ This is my personal repository. Feel free to check my repository, don't forget t
 
 
 BUAT BLOG  
-
+(Work in Progress)
 
 
 
@@ -104,5 +104,5 @@ BUAT BLOG
 <h2 align='center'>Nice to see you here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <br>
 <p align='center'>
-<img src="https://www.kibrispdr.org/dwn/6/background-thank-you-bergerak.gif" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://www.kibrispdr.org/dwn/6/background-thank-you-bergerak.gif" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
