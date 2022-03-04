@@ -65,8 +65,8 @@ This is my personal repository. Feel free to check my repository, don't forget t
 ### ⚙️ &nbsp; GitHub Analytics
 <p align="center">
 <a href="https://github.com/rusadirr">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rusadirr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rusadirr&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rusadirr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rusadirr&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
