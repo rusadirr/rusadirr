@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 This is my personal repository Feel free to check my repository, don't forget to notify me if you found something wrong 
 
-<img width="20%" alt="Night Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right"/>
+<img width="30%" alt="Night Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right"/>
 
 ### 🛠️ &nbsp; Tech
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -59,7 +59,7 @@ This is my personal repository Feel free to check my repository, don't forget to
 <br><br>
 
 ### 🥇 &nbsp; Badges <br>
-<a href="https://www.qwiklabs.com/public_profiles/d6de05fa-537a-4759-9b2b-ba310126bea0"><img src="Badges/Qwiklabs.png" alt="Qwiklabs Badge" width="60" height="60"></a> <br>
+<a href="https://www.qwiklabs.com/public_profiles/d6de05fa-537a-4759-9b2b-ba310126bea0"><img src="Badges/Qwiklabs.png" alt="Qwiklabs Badge" width="60" height="60"></a>     
 <a href="https://hacktoberfest.digitalocean.com/"><img src="Badges/Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60"></a>
 
 ### ⚙️ &nbsp; My GitHub Analytics
@@ -85,17 +85,20 @@ BUAT BLOG
 
 <img src ="Images/rusadi.png" align = "left" width = 50%>
 <div>
-<h2>🔗 Let's Connect With Me!</h2>
+<h2 align='center'>🔗 Let's Connect With Me!</h2>
 
+<!--
 [<img align="top" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />](https://rusadi.me/)
 <br><br>
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/rusadirr)
 <br><br>
 [<img align="top" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/rusadirr/)
 <br><br>
+-->
 
 [![](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://rusadi.me/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rusadirr/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rusadirr/)
 
 
 <h2 align='center'>Nice to see you here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
