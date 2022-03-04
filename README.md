@@ -53,8 +53,13 @@ This is my personal repository Feel free to check my repository, don't forget to
 
 -->
 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
 <summary>### 🥇 &nbsp; Badges <br></summary>
-<a href="https://www.qwiklabs.com/public_profiles/d6de05fa-537a-4759-9b2b-ba310126bea0"><img src="Badges/Qwiklabs" alt="Qwiklabs Badge" width="60" height="60"></a>
+<a href="https://www.qwiklabs.com/public_profiles/d6de05fa-537a-4759-9b2b-ba310126bea0"><img src="Badges/Qwiklabs.png" alt="Qwiklabs Badge" width="60" height="60"></a>
 <a href="https://hacktoberfest.digitalocean.com/"><img src="Badges/Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60"></a>
 
 <summary>### ⚙️ &nbsp; My GitHub Analytics</summary>
