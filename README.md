@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 🌐 &nbsp;Please have a look at my [Personal Websites](https://rusadi.me) for more details about me. I'm open to feedback and suggestions! \
 ⚡ Fun fact : The music group that I like the most is [JKT48.](https://jkt48.com/)
 
-This is my personal repository Feel free to check my repository, don't forget to notify me if you found something wrong 
+This is my personal repository. Feel free to check my repository, don't forget to notify me if you found something wrong.
 
 <img width="30%" alt="Night Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right"/>
 
@@ -59,7 +59,7 @@ This is my personal repository Feel free to check my repository, don't forget to
 <br><br>
 
 ### 🥇 &nbsp; Badges <br>
-<a href="https://www.qwiklabs.com/public_profiles/d6de05fa-537a-4759-9b2b-ba310126bea0"><img src="Badges/Qwiklabs.png" alt="Qwiklabs Badge" width="60" height="60"></a>     
+<a href="https://www.qwiklabs.com/public_profiles/d6de05fa-537a-4759-9b2b-ba310126bea0"><img src="Badges/Qwiklabs.png" alt="Qwiklabs Badge" width="60" height="60"></a>   
 <a href="https://hacktoberfest.digitalocean.com/"><img src="Badges/Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60"></a>
 
 ### ⚙️ &nbsp; My GitHub Analytics
@@ -104,5 +104,5 @@ BUAT BLOG
 <h2 align='center'>Nice to see you here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <br>
 <p align='center'>
-<img src="https://www.kibrispdr.org/dwn/6/background-thank-you-bergerak.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://www.kibrispdr.org/dwn/6/background-thank-you-bergerak.gif" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
