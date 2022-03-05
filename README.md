@@ -92,7 +92,7 @@ BUAT BLOG
 
 -->
 
-<img src ="Images/rusadi.png" align = "left" width = 50%>
+<img src ="Images/rusadi.png" align = "left" width = 70%>
 <div>
 <h2 align='center'>🔗 Let's Connect With Me!</h2>
 
