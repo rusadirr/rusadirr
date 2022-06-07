@@ -3,7 +3,7 @@
 **rusadirr/rusadirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hello there, I'm Rusadi!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"></h1>
+<h1 align="center">Hello there, I'm Rusadi! 👋</h1>
 
 ### 👨‍💻 &nbsp; About Me
 
@@ -117,7 +117,7 @@ BUAT BLOG
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://id.pinterest.com/rusadirr)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
   
-<h2 align='center'>Nice to see you here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align='center'>Nice to see you here 👋</h2>
 <br>
 <p align='center'>
 <img src="https://www.kibrispdr.org/dwn/6/background-thank-you-bergerak.gif" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
